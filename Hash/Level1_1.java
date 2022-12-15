@@ -28,7 +28,7 @@ public class Level1_1 {
 		int[] nums = {3, 1, 2, 3};
 		int answer = 0;
         
-        int getCnt = nums.length/2;
+        	int getCnt = nums.length/2;
 		
 		Set<Integer> set = new HashSet<Integer>();
 		
